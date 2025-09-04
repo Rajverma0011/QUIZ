@@ -1,0 +1,20 @@
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&family=Poppins:wght@600;700&display=swap');
+
+/* Basic Reset and Global Styles */
+:root {
+  --bg-primary: #1E293B;      /* Dark navy blue */
+  --card-bg: #334155;        /* Slightly lighter */
+  --text-primary: #CBD5E1;   /* Off-white */
+  --text-secondary: #94A3B8; /* Medium gray */
+  --accent-color: #6366F1;     /* Indigo 500 */
+  --correct-color: #34D399;    /* Teal 400 */
+  --incorrect-color: #F87171;  /* Red 400 */
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+}

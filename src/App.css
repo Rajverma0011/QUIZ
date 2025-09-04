@@ -1,0 +1,149 @@
+/* Main App Layout */
+.app-container {
+  position: relative;
+  min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
+}
+
+.timer {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  font-size: 1.125rem; /* 18px */
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 0.5rem 1rem;
+  border-radius: 9999px;
+  color: #fff;
+}
+
+.content-overlay {
+  position: relative;
+  z-index: 2;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background-color: rgba(31, 41, 55, 0.7);
+}
+
+.quiz-container {
+  width: 100%;
+  max-width: 42rem;
+}
+
+.quiz-title {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #6366F1; /* Indigo 500 */
+}
+
+/* Card for Quiz and Results */
+.card {
+  background-color: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 42rem;
+  color: #fff;
+}
+
+/* Question and Options */
+.question-text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .options-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.option-btn {
+  border: 2px solid #6B7280;
+  background-color: transparent;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  text-align: left;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.option-btn:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+.option-btn.selected {
+  border-color: #6366F1; /* Indigo 500 */
+  background-color: #6366F1; /* Indigo 500 */
+}
+
+/* Navigation Buttons */
+.navigation-controls {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 1.5rem;
+}
+
+.primary-btn {
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  background-color: #6366F1; /* Indigo 500 */
+  color: white;
+  transition: background-color 0.2s;
+}
+
+.primary-btn:hover {
+  background-color: #4F46E5; /* Indigo 600 */
+}
+
+.primary-btn:disabled {
+  background-color: #4B5563;
+  cursor: not-allowed;
+}
+
+/* Results Page */
+.results-summary p {
+  margin: 0.5rem 0;
+  color: #fff;
+}
+
+.result-item {
+  background-color: rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
+
+.your-answer.correct {
+  color: #A7F3D0; /* Light green */
+  font-weight: bold;
+}
+
+.your-answer.incorrect {
+  color: #FCA5A5; /* Light red */
+  font-weight: bold;
+}
+
+.correct-answer-text {
+  color: #93C5FD; /* Light Blue */
+}

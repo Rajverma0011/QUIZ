@@ -1,0 +1,227 @@
+[
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Beijing", "Seoul", "Tokyo", "Bangkok"],
+    "correctAnswer": "Tokyo"
+  },
+  {
+    "question": "Which hook is used to perform side effects in a React functional component?",
+    "options": ["useState", "useContext", "useReducer", "useEffect"],
+    "correctAnswer": "useEffect"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "correctAnswer": "Jupiter"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "J.K. Rowling", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "correctAnswer": "Harper Lee"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Pb", "Fe"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "In what year did the Titanic sink?",
+    "options": ["1905", "1912", "1918", "1923"],
+    "correctAnswer": "1912"
+  },
+  {
+    "question": "What is the main component of the sun?",
+    "options": ["Liquid Lava", "Molten Iron", "Gas", "Rock"],
+    "correctAnswer": "Gas"
+  },
+  {
+    "question": "Which company developed the JavaScript programming language?",
+    "options": ["Microsoft", "Apple", "Netscape", "Sun Microsystems"],
+    "correctAnswer": "Netscape"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Automated Program Interaction", "Application Process Integration", "Algorithmic Programming Interface"],
+    "correctAnswer": "Application Programming Interface"
+  },
+  {
+    "question": "How many continents are there on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "correctAnswer": "7"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "correctAnswer": "Diamond"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["China", "Japan", "Thailand", "South Korea"],
+    "correctAnswer": "Japan"
+  },
+  {
+    "question": "What is the formula for water?",
+    "options": ["CO2", "H2O", "O2", "NaCl"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "NaCl"],
+      "correctAnswer": "H2O"
+    },
+    {
+      "question": "Who wrote '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "J.R.R. Tolkien"],
+      "correctAnswer": "George Orwell"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondrion", "Chloroplast"],
+      "correctAnswer": "Mitochondrion"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correctAnswer": "Mars"
+    },
+    {
+      "question": "What is the main programming language used for Android app development?",
+      "options": ["Swift", "Kotlin", "C#", "Python"],
+      "correctAnswer": "Kotlin"
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Sardar Patel", "Jawaharlal Nehru", "Indira Gandhi"],
+      "correctAnswer": "Jawaharlal Nehru"
+    },
+    {
+      "question": "What does 'git clone' do?",
+      "options": ["Creates a new branch", "Merges two branches", "Copies a remote repository", "Deletes a repository"],
+      "correctAnswer": "Copies a remote repository"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correctAnswer": "Pacific"
+    },
+    {
+      "question": "What is the speed of light?",
+      "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+      "correctAnswer": "300,000 km/s"
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Marie Curie", "Albert Einstein", "Alexander Fleming", "Isaac Newton"],
+      "correctAnswer": "Alexander Fleming"
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "options": ["HyperText Transfer Protocol", "HyperText Transmission Protocol", "HighText Transfer Protocol", "HyperText Transfer Pipeline"],
+      "correctAnswer": "HyperText Transfer Protocol"
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the USA?",
+      "options": ["Germany", "Spain", "France", "Italy"],
+      "correctAnswer": "France"
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correctAnswer": "Canberra"
+    },
+    {
+      "question": "In what year did World War II end?",
+      "options": ["1942", "1945", "1950", "1939"],
+      "correctAnswer": "1945"
+    },
+    {
+      "question": "What is the primary function of a CPU?",
+      "options": ["Store data long-term", "Display graphics", "Execute instructions", "Connect to the internet"],
+      "correctAnswer": "Execute instructions"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+      "correctAnswer": "Hydrogen"
+    },
+    {
+      "question": "Who directed the movie 'Inception'?",
+      "options": ["Steven Spielberg", "Quentin Tarantino", "Christopher Nolan", "Martin Scorsese"],
+      "correctAnswer": "Christopher Nolan"
+    },
+    {
+      "question": "Which city is the Taj Mahal located in?",
+      "options": ["New Delhi", "Mumbai", "Jaipur", "Agra"],
+      "correctAnswer": "Agra"
+    },
+    {
+      "question": "What is the most used JavaScript framework for front-end development?",
+      "options": ["Angular", "Vue", "React", "Svelte"],
+      "correctAnswer": "React"
+    },
+    {
+      "question": "What is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "correctAnswer": "2"
+    },
+    {
+      "question": "Which artist is known for the 'Starry Night' painting?",
+      "options": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci", "Claude Monet"],
+      "correctAnswer": "Vincent van Gogh"
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yuan", "Won", "Yen", "Rupee"],
+      "correctAnswer": "Yen"
+    },
+    {
+      "question": "What does VPN stand for?",
+      "options": ["Virtual Private Network", "Very Private Network", "Virtual Public Network", "Verified Public Network"],
+      "correctAnswer": "Virtual Private Network"
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "correctAnswer": "Nitrogen"
+    },
+    {
+      "question": "Who is the author of the 'Harry Potter' series?",
+      "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "C.S. Lewis"],
+      "correctAnswer": "J.K. Rowling"
+    },
+    {
+      "question": "Which component is used to connect different parts of a computer?",
+      "options": ["CPU", "RAM", "Motherboard", "GPU"],
+      "correctAnswer": "Motherboard"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Polar Desert"],
+      "correctAnswer": "Antarctic Polar Desert"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["206", "212", "201", "220"],
+      "correctAnswer": "206"
+    },
+    {
+      "question": "Which planet is closest to the sun?",
+      "options": ["Venus", "Mars", "Mercury", "Earth"],
+      "correctAnswer": "Mercury"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "correctAnswer": "12"
+    }
+]
